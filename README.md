@@ -1,7 +1,7 @@
 # WorkDayScheduler5
 
 ## ##Description
-This app generates random passwords.
+
 
 ## Table of Contents
 -Installation
